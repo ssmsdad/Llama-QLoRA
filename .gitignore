@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Llama 3.1 and 3.3 models
+*.safetensors
+Llama-3.1-8B-Instruct/
+Llama-3.3-70B-Instruct/

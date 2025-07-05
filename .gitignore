@@ -206,7 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Llama 3.1 and 3.3 models
+# Llama 3 models 、 checkpoints and datasets
 *.safetensors
 Llama-3.1-8B-Instruct/
 Llama-3.3-70B-Instruct/
+*.pt
+pubmedqa_llama.jsonl
